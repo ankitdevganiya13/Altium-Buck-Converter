@@ -1,0 +1,68 @@
+Board Information Report
+Filename     : E:\AB Design\LM2576_Buckconverter\LM2576_Buckconverter.PcbDoc
+Date         : 28-03-2022
+Time         : 10:56:30 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 2875milsx1105mils
+    Components on board, 9
+count : 2
+
+Routing Information
+    Routing completion, 44.44%
+    Connections, 18
+    Connections routed, 8
+    Connections remaining, 10
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 15, 0, 0, 0, 0, 5, 0
+    Bottom Layer, 0, 0, 0, 0, 0, 0, 1, 0
+    Mechanical 1, 8, 0, 0, 10, 0, 0, 0, 9
+    Multi-Layer, 0, 9, 3, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 0, 0, 0, 45, 18, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 13
+
+Drill Pairs, Vias
+count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 2.411, 1555.769, 76%
+    Bottom Layer, 0.368, 237.495, 12%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    11.811mils, 0, 0
+    30mils, 0, 0
+count : 3
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Pad Solder Mask, Count
+count : 0
+
+Via Solder Mask, Count
+count : 0
